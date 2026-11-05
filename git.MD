@@ -9,4 +9,4 @@ Git is a popular source code management tool. It has below features.
 * Branching
 * Collaboration
 
-![alt text](images/git.jpg)
+![alt text](image-4.png)
