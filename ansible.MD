@@ -44,7 +44,7 @@ Read the configuration --> it is easy to read the configuration of server throug
 
 ### Pull vs Push configuration
 ![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 **PULL:**
 1. Nodes should connect to the servers through agent software.
